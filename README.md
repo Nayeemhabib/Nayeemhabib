@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Electrical and Electronics Engineer from NIT Trichy. Interested in VLSI, Analog and Digital Design, Embedded Systems, FPGA, and Semiconductor Technology. Building projects, learning new technologies, and exploring opportunities in Electronics and Research.
 
